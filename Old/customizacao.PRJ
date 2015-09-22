@@ -1,0 +1,65 @@
+Group Customizacao
+   Version=7.0
+   VSSDB=
+   HasProperties=1
+   Properties
+      BeforeApply=
+      AfterApply=
+      Icon=
+      ID=
+      Version=
+      PalmName=
+      OutPut=
+   End
+   ProjectsCount=1
+   Project Novo Projeto
+      FoldersCount=2
+      Folder Fontes
+         VSSPath=Fontes
+         FilesCount=13
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-CUST-CARGOS.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-CUST-DEPENDENTES.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-CUST-DESCRFAIXAS.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-CUST-FAIXAS.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-CUST-FAMILIAS.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-CUST-GRPPLANO.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-CUST-PARENTESCO.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-CUST-PLANOS.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-FIN-PLANOS.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-IMP-CADFUNC.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-PE-CADFUNC.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-REL-SERVSAUDE.PRW
+             Type=T
+         End
+         File \Totvs\Microsiga\Protheus11\my projects\Customizacao\SINDAFEP-ARQ-IMP5MH01.PRW
+             Type=T
+         End
+      End
+      Folder Definições
+         VSSPath=Definições
+         FilesCount=0
+      End
+   End
+End
